@@ -171,7 +171,7 @@ You car is driving at a moderate speed down a road. It turns a corner and there 
 - Ethicists are today thinking about /Robot Rights/ in much the same way as people once thought about animal rights.
 - As AI become more and more sophisticated, and able to imitate humans with greater and greater degrees of accuracy, do we have to start thinking about robot rights?
 #+begin_html
- <video width="320" height="240" controls>
+ <video width="480" height="270" controls>
   <source src="img/kara.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
