@@ -7,8 +7,6 @@
 
 #+TITLE: Artificial Intelligence
 #+AUTHOR: Marc Scott
-
-
 * Lesson Plan - Week 5
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
