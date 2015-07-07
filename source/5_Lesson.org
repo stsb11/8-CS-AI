@@ -176,11 +176,12 @@ You car is driving at a moderate speed down a road. It turns a corner and there 
 Your browser does not support the video tag.
 </video> 
 #+end_html
+- Have a read of this short story about[[https://sites.google.com/site/asenselessconversation/][ /The Turing Test/.]]
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Does a truly intelligent AI have rights?
+- Does a truly intelligent AI (as demonstrated in the works of fiction above) have rights?
 - [[http://en.wikipedia.org/wiki/European_Convention_on_Human_Rights][The European Convention on Human Rights]], lays down several articles, detailing the rights of all people.
 - For each of the Articles listed below, state whether you think that in the future, these rights should be extended to intelligent AIs
 - Articles - 2, 3, 4, 5, 6, 9, 14
