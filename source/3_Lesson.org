@@ -11,7 +11,7 @@
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/MarcScott/8-CS-AI">Fork me on GitHub</a>
+      <a href="https://github.com/stsb11/8-CS-AI">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -118,4 +118,4 @@
   2. Detail what problems these AI technologies are currently able to solve.
   3. Detail what problems these AI technologies are currently not able to solve.
   4. Conclude as to the effectiveness of the technologies.
-- Your presentation can be in any format you choose - A slide show, poster or video for instance. The choice is yours.
+- Your presentation needs to be a PowerPoint presentation - A slide show, poster or video for instance.
