@@ -21,8 +21,6 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="6_Lesson.html">Week6</a></li>
-      <li><a href="7_Lesson.html">Week7</a></li>
       <li><a href="assessment.html">Assessment</a></li>
 
     </ul>
@@ -100,7 +98,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Although people have long thought about the possibility of /Machines that could think/, the science of AI really started with Alan Turing, back in the 1950s
+- Although people have long thought about the possibility of /Machines that could think/, the science of AI really started with Alan Turing, back in the 1950s.
 - Turing had devised a hypothetical machine called /The Turing Machine/, that was capable of performing extremely complicated computations.
 - Turing devised a party game, called /The Imitation Game/. In the game, a man (A) and woman (B) would each go off to seperate rooms. They could then communicate with the guests at the party, but only through typed messages. The man and woman would try to convince the guests that they were the other.
 - The game was invented only to introduce the second more interesting version.
@@ -112,16 +110,19 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Go to this address http://www.masswerk.at/eliza/ and have a play around with ELIZA
+- Open [[http://www.masswerk.at/eliza/][ELIZA]] in a new tab and have a chat with her.
+- She was originally designed as a therapist.
 - In 1966, Joseph Weizenbaum created ELIZA, that appeared to pass the Turing test.
 - Weizenbaum's program was able to fool some people into believing that they were talking to a real person, with some subjects being "very hard to convince that ELIZA was not human.
-- Write up your opinions on ELIZA. Do you think it passes the Turing Test? Can you figure out the rules that dictates ELIZA's responses.
+- Another more modern example would be [[http://www.mitsuku.com][Mitsuku.]]
+- She won second prize in a recent Turing competition.
+- Write up your opinions on ELIZA and Mitsuku. Do you either of them  passes the Turing Test? Can you figure out the rules that dictate ELIZA's responses.
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
 [[https://imgs.xkcd.com/comics/turing_test.png]]
-- Although Turing never intended /The Turing Test/ to be a definitive test for Atrificial Intelligence, this has not stopped academics and companies holding competitions in which programs are subjected to /The Turing Test/.
+- Although Turing never intended /The Turing Test/ to be a definitive test for Artificial Intelligence, this has not stopped academics and companies holding competitions in which programs are subjected to /The Turing Test/.
 - Use online resources to learn about some of these competitions and programs that have managed to fool interogators into thinking they were human.
 ** Badge It - Gold
 :PROPERTIES:
@@ -153,6 +154,6 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- From a security point of view, what do you think the ramifications of computers being able to imitate humans succesfully.
+- From a security point of view, what do you think the ramifications of computers being able to imitate humans successfully.
 - How might criminals be able to use these technologies?
 - How might security expects be able to counter these technologies?

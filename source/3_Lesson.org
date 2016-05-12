@@ -21,8 +21,6 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="6_Lesson.html">Week6</a></li>
-      <li><a href="7_Lesson.html">Week7</a></li>
       <li><a href="assessment.html">Assessment</a></li>
 
     </ul>
@@ -107,15 +105,22 @@
   - Google self-driving cars
   - IBM Watson
   - The Mars Rover
-- But this list is far from exhausitve
+  - [[http://www.bbc.co.uk/news/technology-36253244][Viv]]
+  - [[https://www.captionbot.ai][Caption Bot]] 
+- But this list is far from exhausitve.
+- Here is an [[http://beebom.com/2015/12/examples-of-artificial-intelligence][article]] that should help.
+
+
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For this activity you need to produce a presentation on current AI technologies.
-- Your presentation should:
+- *Green pen Matters*
+ 
+- For this activity you need to produce a short essay on current AI technologies.
+- Your essay should:
   1. Cover some AI technologies that are currently in use.
   2. Detail what problems these AI technologies are currently able to solve.
   3. Detail what problems these AI technologies are currently not able to solve.
   4. Conclude as to the effectiveness of the technologies.
-- Your presentation needs to be a PowerPoint presentation - A slide show, poster or video for instance.
+- Your essay needs to be a written in your favourite text editor - Notepad, Sublime Text or emacs for instance.
