@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Artificial Intelligence
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott updated by Paul Dougall
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -106,9 +106,12 @@
 We now ask the question, "What will happen when a machine takes the part of A in this game?" Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original, "Can machines think?"
 #+end_quote
 - Turing was arguing, that if a machine can convincingly trick a questioner into thinking it was a human, then it can be classified as intelligent. Or more philosophically- what is the difference between a human and a computer that is indestinguishable from a human?
-** Badge It - Silver
+- Let's see how a Turing Test is actually done.
+- Click [[http://www.mind.ilstu.edu/curriculum/turing_test/turing_test_flash_long.php][here]]
+
+** Note It 
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
+:HTML_CONTAINER_CLASS: document
 :END:
 - Open [[http://www.masswerk.at/eliza/][ELIZA]] in a new tab and have a chat with her.
 - She was originally designed as a therapist.
@@ -117,6 +120,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Another more modern example would be [[http://www.mitsuku.com][Mitsuku.]]
 - She won second prize in a recent Turing competition.
 - Write up your opinions on ELIZA and Mitsuku. Do you either of them  passes the Turing Test? Can you figure out the rules that dictate ELIZA's responses.
+
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
@@ -124,9 +128,10 @@ We now ask the question, "What will happen when a machine takes the part of A in
 [[https://imgs.xkcd.com/comics/turing_test.png]]
 - Although Turing never intended /The Turing Test/ to be a definitive test for Artificial Intelligence, this has not stopped academics and companies holding competitions in which programs are subjected to /The Turing Test/.
 - Use online resources to learn about some of these competitions and programs that have managed to fool interogators into thinking they were human.
-** Badge It - Gold
+- The most famous is Eugene Gostman. Currently he is off line but [[http://time.com/2847900/eugene-goostman-turing-test/][here]] is an article to see what he does.
+** Note It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
+:HTML_CONTAINER_CLASS: document
 :END:
 - In your opinion, have there been any programs written that actually pass /The Turing Test/?
 - Whether you agree or disagree that /The Turing Test/ has been passed, make sure that you justify your answer, and give examples of the programs.
@@ -150,10 +155,18 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Read[[http://www.newscientist.com/article/mg22429992.400-googles-new-bottrap-trains-machines-to-see-the-world.html#.VRlKbLwo9QI][ this article]] to learn a little more.
 - Ironically, these AIs that are trained are then capable of solving Google's own CAPTCHA.
 - Read[[http://techcrunch.com/2014/04/16/googles-new-street-view-image-recognition-algorithm-can-beat-most-captchas/][ this article]] to learn a little more.
-** Badge It - Platinum
+** Note It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
+:HTML_CONTAINER_CLASS: document
 :END:
 - From a security point of view, what do you think the ramifications of computers being able to imitate humans successfully.
 - How might criminals be able to use these technologies?
 - How might security expects be able to counter these technologies?
+** Badge It - silver/gold/platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Time to show what you know!
+- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_1/][here]]
+- Your score will determine whether you receive a silver, gold or platinum badge.
+
