@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Artificial Intelligence
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott updated by Paul Dougall
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -111,7 +111,7 @@
 
 - Artificial intelligence (AI) is the intelligence exhibited by machines or software.
 - As you will learn, we are already surrounded by AI, whether that be the route finding software in the maps app on your mobile phone, that enemy combatant in your FPS console game or the recommendation software used to suggest products to you based on your previous purchases.
-** Badge It - Silver
+** Silver Tasks
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
@@ -125,22 +125,41 @@
   7. move and manipulate objects
 - Watch the following videos and decide which (if any) of the goals listed above have been achieved by the AIs shown.
 #+begin_html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M8YjvHYbZ9w" frameborder="0" allowfullscreen></iframe>
-#+end_html
-#+begin_html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z9uLb7-eJD8" frameborder="0" allowfullscreen></iframe>
-#+end_html
-#+begin_html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WnzlbyTZsQY" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/tf7IEVTDjng?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<p>
 #+end_html
 
+#+begin_html
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Qh2yT-AL1V8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div> <p>
+#+end_html
+
+#+begin_html
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/SUbqykXVx0A?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div><p>
+#+end_html
+
+- Add the below table to your notes and complete by watching the above videos.
 
 - Use ticks and crosses in the table below.
+
 | AI          | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-------------+---+---+---+---+---+---+---|
 | Spot        |   |   |   |   |   |   |   |
 | Chat Bots   |   |   |   |   |   |   |   |
-| Robot Chess |   |   |   |   |   |   |   |
+| Robot Go    |   |   |   |   |   |   |   |
+
+- Can computers be creative?
+
+#+begin_html
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Rh9vBczqMk0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+#+end_html
+
+- Answer the following answers into your notes from the above video.
+
+- Who was Lady Lovelace?
+- What was her test?
+- What examples of being creative are given?
+- Explain how evolution can be used to make music?
+
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
@@ -151,31 +170,33 @@
 - Close the program and restart it.
 - Have another conversation.
 - Are there any differences the second time around?
-- How about a third time?
+- How about a *third* time?
 - How about when you have a go with a friend's chatbot?
-** Badge It - Gold
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-- *Underneath the table you produced for the silver badge, answer the following questions.*
+
 - To what extent do you feel that the chatbot displays any of the goals of AI, as listed in the Silver Task?
 - How do you think this chatbot works?
 - Does looking at the source code for the bot (in IDLE) help at all?
 
-** Learn It
+** Badge It - Silver/Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Time to show what you know!
+- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_1/][here]]
+- Your score will determine whether you receive a silver or gold badge. 
+
+** Learn it
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+
 - Deciding what qualifies as AI and what doesn't is not easy.
 - Something is /Artificial/ if it is not naturally occurring - i.e. man-made.
 - What do we mean by /Intelligence/ though?
 - Do animals display intelligence? How about fish? Insects? Worms?
 - The 17th century philosopher and mathematician, Rene Descartes, went as far as to suggest that all animals were nothing more than /automata/ (machines made of muscle and bone) and incapable of true thought.
 - Others have suggested that we can see evidence of Intelligence in organisms as simple as protozoa or algae.
-** Badge It - Platinum
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
 - In your own words, try to define what you think it means to be intelligent.
 - If you were going to devise a test, that could classify a machine as intelligent or not, what type of test would it be?
 #  LocalWords:  allowfullscreen Mathieu Rodic

@@ -33,6 +33,8 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:      
+   
+* [[file:pages/homework.html][Homework]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:    
